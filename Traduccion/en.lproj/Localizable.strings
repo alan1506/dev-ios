@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Traduccion
+
+  Created by alan on 05/10/21.
+  
+*/
+"title" = "Welcome to my app";
+"button" = "Click in this button";
+"titleAlert" = "My Alert";
+"message" = "Mesage from alert";
+"titleDate" = "choose date";
+"image" = "Welcome";
