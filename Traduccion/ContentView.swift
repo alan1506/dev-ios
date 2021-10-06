@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     @State private var alerta = false
     @State private var fecha = Date()
-    @State private var image = NSLocalizedString("image", comment: "Imagen principal de eweeee")
+    @State private var image = NSLocalizedString("image", comment: "Imagen principal de eweeewwwwe")
     var body: some View {
         VStack{
         
